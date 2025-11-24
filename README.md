@@ -1,6 +1,37 @@
 ## Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+
+👋 **Hi! I'm Obada Armanazi**<br>
+Creative Front-End Developer • Graphic Designer • Future CTO<br>
+Building **IndustMap**, the next big industrial-tech platform in the MENA region 🚀🌍<br>
+
+---
+
+## 👨‍💻 What I Do<br>
+- 💼 Founder & CTO in training at **IndustMap**<br>
+- 🎨 Graphic Designer & Creative Strategist<br>
+- 🖥️ Front-End Developer (React / JS / UI-UX)<br>
+- 🤖 Passionate about AI tools & automation<br>
+- 📈 Marketing & Branding Enthusiast<br>
+
+---
+
+## 🔥 Currently<br>
+- 🚀 Working on expanding **IndustMap**'s tech infrastructure<br>
+- 🤝 Open to collaborating on web apps, branding, and AI tools<br>
+- 🧠 Learning advanced system design & cloud engineering<br>
+- ⚡ Improving my English to reach full fluency<br>
+- 🏗️ Building a million-dollar roadmap for my next 5 years<br>
+
+---
+
+## 🎯 Fun Facts<br>
+- 💡 I love turning ideas into real products<br>
+- 🕹️ Gamer & tech-hardware geek (PC building, GPUs, benchmarks…)<br>
+- ✨ Believe that creativity + code = magic<br>
+- 🇹🇷🇦🇪 Lived between Turkey & UAE<br>
+- 📱 Apple ecosystem addict 😆<br>
+
 
 
 ## 🌐 Socials:
